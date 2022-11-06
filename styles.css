@@ -1,0 +1,28 @@
+﻿body {
+  background-color:hsl(201, 42%, 73%);
+
+}
+p{
+  font-family:Times New Roman;
+}
+b{
+  color:hsl(147, 50%, 47%);
+
+}
+h1 {
+  color:hsl(319, 24%, 50%);
+
+}
+h2 {
+  color:hsl(319, 24%, 50%);
+
+}
+li{
+  font-family:Georgia;
+  font-size: 20px;
+  
+}
+span{
+  font-family:Georgia;
+  
+}
